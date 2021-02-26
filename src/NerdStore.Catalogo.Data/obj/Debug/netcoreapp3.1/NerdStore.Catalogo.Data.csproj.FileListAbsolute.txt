@@ -1,0 +1,4 @@
+C:\Users\Donuz\workspace\DDD\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csprojAssemblyReference.cache
+C:\Users\Donuz\workspace\DDD\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Users\Donuz\workspace\DDD\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfo.cs
+C:\Users\Donuz\workspace\DDD\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
