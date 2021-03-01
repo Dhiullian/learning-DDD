@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRaLkqJruq9mSdGWoCQsHrI006415lxZGoZfYqR1gkQpNGpHjzUTOuwoLhgD/apdtHefROFZiCVq2khU0yJkdQ==",
+  "dgSpecHash": "qPJdpw6rzMD8K2Y86xwVHFhJqqfw7ChNhK5qPXA3An/GdHHLHqEPx0TaVqulgIV5aU1yZoaKiO3lWj0Hk81B4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+  "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

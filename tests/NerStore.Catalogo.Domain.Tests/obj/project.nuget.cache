@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kvKGolbHrnuqsDXUyUZF8oGX9YP/ebLzOCaPd55eg93rpPXB+UNLdcWxuRszYShBlNAeFwESUfKCyra/UTDRgw==",
+  "dgSpecHash": "9pkfMygXLapR3/cb3Qfwv2A0xgNFbMGyV1udUKuchxYoO+cBwnxKbFj2x0mkCUXL29PTfY5uwndFrHFhiWG/XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\tests\\NerStore.Catalogo.Domain.Tests\\NerStore.Catalogo.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\tests\\NerStore.Catalogo.Domain.Tests\\NerStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Donuz\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

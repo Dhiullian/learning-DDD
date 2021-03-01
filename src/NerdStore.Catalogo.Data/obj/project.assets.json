@@ -5725,11 +5725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
       "projectName": "NerdStore.Catalogo.Data",
-      "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+      "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
       "packagesPath": "C:\\Users\\Donuz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\obj\\",
+      "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Donuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5746,11 +5746,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-              "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+            "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
             },
-            "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             }
           }
         }

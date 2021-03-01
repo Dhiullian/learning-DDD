@@ -37,10 +37,6 @@ namespace NerdStore.Catalogo.Data.Mappings
                     .HasColumnName("Profundidade")
                     .HasColumnType("int");
             });
-
-            builder.ToTable("Produtos");
-
-            throw new NotImplementedException();
         }
     }
 }

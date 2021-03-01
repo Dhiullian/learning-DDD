@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {}
+    "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+    "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
         "projectName": "NerdStore.Catalogo.Data",
-        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
         "packagesPath": "C:\\Users\\Donuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Data\\obj\\",
+        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Donuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
               },
-              "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+    "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "projectName": "NerdStore.Catalogo.Domain",
-        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "packagesPath": "C:\\Users\\Donuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Catalogo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Donuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\Donuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\NerdStore\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Donuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
