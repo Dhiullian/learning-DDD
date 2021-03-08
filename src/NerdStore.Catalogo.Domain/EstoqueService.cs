@@ -24,6 +24,10 @@ namespace NerdStore.Catalogo.Domain
 
             produto.DebitarEstoque(quantidade);
 
+            if (produto.QuantidadeEstoque < 10)
+            {
+            }
+
             _produtoRepository.Atualizar(produto);
             return await _produtoRepository.UnitOfWork.Commit();
         }
@@ -40,6 +44,7 @@ namespace NerdStore.Catalogo.Domain
 
         public void Dispose()
         {
+            _produtoRepository.Dispose();
         }
     }
 }

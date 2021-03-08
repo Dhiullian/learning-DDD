@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qPJdpw6rzMD8K2Y86xwVHFhJqqfw7ChNhK5qPXA3An/GdHHLHqEPx0TaVqulgIV5aU1yZoaKiO3lWj0Hk81B4w==",
+  "dgSpecHash": "MVQmy4OINUl8hnYQ5XOlTrtpNtGh9NdtJRvDmJE+Rd2t0dvH0HRNW5ZY4kc5TB3oIiuHUiZYNMuzJOED//3o+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Donuz\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Donuz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
