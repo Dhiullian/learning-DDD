@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hJ8qOwXeDwGu8HDVG3F6Db9RoT5vBrMtNBj6m4dighGIkDHKVbR+QbZZJZvBCIaztrQvMfHcAwurGCM0jYUL2w==",
+  "dgSpecHash": "idtKAzRhYX7NdLElK0QnMO249opV+C1Oz1FynaTNpDkxuJxquhqJ9/BxBSqbwDMH3xCsc5dO85yMVmaALbfvpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\tests\\NerStore.Catalogo.Domain.Tests\\NerStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [

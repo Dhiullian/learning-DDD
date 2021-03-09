@@ -13,9 +13,9 @@ namespace NerdStore.Core
             _mediator = mediator;
         }
 
-        public Task PublicarEvento<T>(T evento) where T : Event
+        public async Task PublicarEvento<T>(T evento) where T : Event
         {
-            throw new System.NotImplementedException();
+            await _mediator.Publish(evento);
         }
     }
 }
