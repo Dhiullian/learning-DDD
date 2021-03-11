@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerStore.Catalogo.Domain.Te
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4F26DFCA-7530-4A95-867D-813F714625D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogo.Data", "src\NerdStore.Catalogo.Data\NerdStore.Catalogo.Data.csproj", "{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Data", "src\NerdStore.Catalogo.Data\NerdStore.Catalogo.Data.csproj", "{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogo.Application", "src\NerdStore.Catalogo.Application\NerdStore.Catalogo.Application.csproj", "{943AA5DA-D466-4237-9F15-62B669021B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943AA5DA-D466-4237-9F15-62B669021B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943AA5DA-D466-4237-9F15-62B669021B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943AA5DA-D466-4237-9F15-62B669021B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943AA5DA-D466-4237-9F15-62B669021B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{F842AA9B-B3E3-4625-8A11-0C36F9DB1222} = {4F26DFCA-7530-4A95-867D-813F714625D1}
 		{4F26DFCA-7530-4A95-867D-813F714625D1} = {2DAD737B-03F8-47CD-AD36-9887A2A3C722}
 		{9FFA3D93-2A1E-4593-A21C-FC8BB72F87F6} = {2DAD737B-03F8-47CD-AD36-9887A2A3C722}
+		{943AA5DA-D466-4237-9F15-62B669021B46} = {2DAD737B-03F8-47CD-AD36-9887A2A3C722}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E259447F-D808-4F5B-8698-C7DBFD42F24A}
