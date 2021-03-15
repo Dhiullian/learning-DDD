@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GkjaEIZKWrcFj6IZwsQ1G3vp3LDZuBf1BYADT1rSTnpfKQkZFZyBsj3tP34xYV4wl5ndJllGPrsG/tHRUmLGbg==",
+  "dgSpecHash": "6tZ1tgIpZdNBq0vD8d4Jbs86SBmN7K7ecj3/1s6AoxXSp7eqNOg/PhR+XIyev9mjI6SA3Ntprsdplu/VPmxGhQ==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "projectFilePath": "C:\\Users\\Donuz\\workspace\\DDD\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cliente\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\Donuz\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
