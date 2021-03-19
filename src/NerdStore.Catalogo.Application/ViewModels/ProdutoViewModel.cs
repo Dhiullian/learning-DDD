@@ -5,7 +5,7 @@ using System.Text;
 
 namespace NerdStore.Catalogo.Application.ViewModels
 {
-    internal class ProdutoViewModel
+    public class ProdutoViewModel
     {
         [Key]
         public Guid Id { get; set; }

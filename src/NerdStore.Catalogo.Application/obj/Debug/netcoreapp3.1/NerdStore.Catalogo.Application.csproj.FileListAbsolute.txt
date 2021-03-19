@@ -6,3 +6,4 @@ C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\bin
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csprojAssemblyReference.cache
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
