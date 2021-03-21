@@ -16,3 +16,15 @@ C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debu
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csprojAssemblyReference.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.deps.json
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete

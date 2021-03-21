@@ -4,11 +4,11 @@ using MediatR;
 
 namespace NerdStore.Catalogo.Domain.Events
 {
-    public class ProdutoEventHanddler : INotificationHandler<ProdutoAbaixoEstoqueEvent>
+    public class ProdutoEventHandler : INotificationHandler<ProdutoAbaixoEstoqueEvent>
     {
         private readonly IProdutoRepository _produtoRepository;
 
-        public ProdutoEventHanddler(IProdutoRepository produtoRepository)
+        public ProdutoEventHandler(IProdutoRepository produtoRepository)
         {
             _produtoRepository = produtoRepository;
         }

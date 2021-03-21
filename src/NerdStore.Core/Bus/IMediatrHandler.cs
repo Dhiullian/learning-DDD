@@ -5,6 +5,6 @@ namespace NerdStore.Core
 {
     public interface IMediatrHandler
     {
-        public async Task PublicarEvento<T>(T evento) where T : Event;
+        Task PublicarEvento<T>(T evento) where T : Event;
     }
 }

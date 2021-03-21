@@ -12,8 +12,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NerdStore.Catalogo.Application.AutoMapper;
 using NerdStore.Catalogo.Data;
-using NerdStore.Pagamentos.Data;
-using NerdStore.Vendas.Data;
 using NerdStore.WebApp.MVC.Setup;
 
 namespace NerdStore.WebApp.MVC
@@ -43,18 +41,20 @@ namespace NerdStore.WebApp.MVC
             services.AddDbContext<CatalogoContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+
             services.AddDefaultIdentity<IdentityUser>()
-                .AddDefaultUI(Ui.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddAutoMapper(typeof(DomainToViewModelMappingProfile),
-                                   typeof(ViewModelToDomainMappingProfile));
+            services.AddMvc(options => options.EnableEndpointRouting = false);
+            services.AddOptions();
+
+            services.AddAutoMapper(typeof(DomainToViewModelMappingProfile), typeof(ViewModelToDomainMappingProfile));
 
             services.AddMediatR(typeof(Startup));
 
-            //services.RegisterServices();
+            services.RegisterServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -77,6 +77,8 @@ namespace NerdStore.WebApp.MVC
             app.UseCookiePolicy();
 
             app.UseAuthentication();
+
+
 
             app.UseMvc(routes =>
             {

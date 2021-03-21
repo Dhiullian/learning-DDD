@@ -12,3 +12,12 @@ C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreap
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
 C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csprojAssemblyReference.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfoInputs.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfo.cs
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.deps.json
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
