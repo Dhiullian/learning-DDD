@@ -23,3 +23,10 @@ E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Application\bin\Deb
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CopyComplete
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.deps.json
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CopyComplete
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb

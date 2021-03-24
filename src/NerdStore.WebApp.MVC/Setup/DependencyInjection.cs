@@ -1,19 +1,17 @@
-﻿using MediatR;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using NerdStore.Catalogo.Application.Services;
 using NerdStore.Catalogo.Data;
 using NerdStore.Catalogo.Data.Repository;
 using NerdStore.Catalogo.Domain;
-using NerdStore.Catalogo.Domain.Events;
 using NerdStore.Core;
 
 namespace NerdStore.WebApp.MVC.Setup
 {
     public static class DependencyInjection
     {
-        public static void RegisterServices(this IServiceCollection services)
+        public static void RegisterService(this IServiceCollection services)
         {
-            // Mediator
+            // Domain Bus (Mediator)
             services.AddScoped<IMediatrHandler, MediatrHandler>();
 
             // Catalogo
@@ -21,10 +19,6 @@ namespace NerdStore.WebApp.MVC.Setup
             services.AddScoped<IProdutoAppService, ProdutoAppService>();
             services.AddScoped<IEstoqueService, EstoqueService>();
             services.AddScoped<CatalogoContext>();
-
-            services.AddScoped<INotificationHandler<ProdutoAbaixoEstoqueEvent>, ProdutoEventHandler>();
-
-
         }
     }
 }

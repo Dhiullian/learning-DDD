@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-NerdStore.WebApp.MVC-0E848DE8-8087-4B3C-BE5A-28E4B86B07BF")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-NerdStore.WebApp.MVC-E4DEEA16-1665-45A1-AB5A-C285EEBDB0D8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.WebApp.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

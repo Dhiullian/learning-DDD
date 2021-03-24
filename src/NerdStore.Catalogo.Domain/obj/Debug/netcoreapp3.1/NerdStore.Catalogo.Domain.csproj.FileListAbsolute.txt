@@ -28,3 +28,9 @@ E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\ne
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.deps.json
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete

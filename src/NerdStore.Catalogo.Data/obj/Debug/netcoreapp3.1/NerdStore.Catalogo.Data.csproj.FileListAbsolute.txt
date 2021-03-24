@@ -23,3 +23,16 @@ E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netc
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
 E:\Desktop\Programação\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.genruntimeconfig.cache
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.deps.json
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.json
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.dev.json
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CopyComplete
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Users\Donuz\workspace\DDD\learning-DDD\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.genruntimeconfig.cache

@@ -55,9 +55,9 @@ namespace NerdStore.Catalogo.Application.Services
             await _produtoRepository.UnitOfWork.Commit();
         }
 
-        public Task<IEnumerable<CategoriaViewModel>> ObterCategorias()
+        public async Task<IEnumerable<CategoriaViewModel>> ObterCategorias()
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IEnumerable<CategoriaViewModel>>(await _produtoRepository.ObterCategorias());
         }
 
         public async Task<ProdutoViewModel> DebitarEstoque(Guid id, int quantidade)
