@@ -30,7 +30,7 @@ namespace NerdStore.Catalogo.Data.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("Varchar(250)");
+                        .HasColumnType("varchar(250)");
 
                     b.HasKey("Id");
 
@@ -95,7 +95,7 @@ namespace NerdStore.Catalogo.Data.Migrations
                                 .HasColumnType("int");
 
                             b1.Property<int>("Largura")
-                                .HasColumnName("Profundidade")
+                                .HasColumnName("Largura")
                                 .HasColumnType("int");
 
                             b1.Property<int>("Profundidade")

@@ -1,10 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using NerdStore.Catalogo.Application.Services;
 using NerdStore.Catalogo.Application.ViewModels;
+using System;
+using System.Threading.Tasks;
 
-namespace NerdStore.WebApp.MVC.Controllers.Admin
+namespace NerdStore.WebApp.Mvc.Controllers.Admin
 {
     public class AdminProdutosController : Controller
     {
@@ -15,21 +15,19 @@ namespace NerdStore.WebApp.MVC.Controllers.Admin
             _produtoAppService = produtoAppService;
         }
 
-        [HttpGet]
-        [Route("admin-produtos")]
+        [HttpGet("admin-produtos")]
         public async Task<IActionResult> Index()
         {
             return View(await _produtoAppService.ObterTodos());
         }
 
-        [Route("novo-produto")]
+        [HttpGet("novo-produto")]
         public async Task<IActionResult> NovoProduto()
         {
             return View(await PopularCategorias(new ProdutoViewModel()));
         }
 
-        [Route("novo-produto")]
-        [HttpPost]
+        [HttpPost("novo-produto")]
         public async Task<IActionResult> NovoProduto(ProdutoViewModel produtoViewModel)
         {
             if (!ModelState.IsValid) return View(await PopularCategorias(produtoViewModel));
@@ -39,21 +37,19 @@ namespace NerdStore.WebApp.MVC.Controllers.Admin
             return RedirectToAction("Index");
         }
 
-        [HttpGet]
-        [Route("editar-produto")]
+        [HttpGet("editar-produto/{id}")]
         public async Task<IActionResult> AtualizarProduto(Guid id)
         {
             return View(await PopularCategorias(await _produtoAppService.ObterPorId(id)));
         }
 
-        [HttpPost]
-        [Route("editar-produto")]
+        [HttpPost("editar-produto/{id}")]
         public async Task<IActionResult> AtualizarProduto(Guid id, ProdutoViewModel produtoViewModel)
         {
-            var produto = await _produtoAppService.ObterPorId(id);
-            produtoViewModel.QuantidadeEstoque = produto.QuantidadeEstoque;
+            produtoViewModel.QuantidadeEstoque = (await _produtoAppService.ObterPorId(id)).QuantidadeEstoque;
 
             ModelState.Remove("QuantidadeEstoque");
+
             if (!ModelState.IsValid) return View(await PopularCategorias(produtoViewModel));
 
             await _produtoAppService.AtualizarProduto(produtoViewModel);
@@ -61,15 +57,13 @@ namespace NerdStore.WebApp.MVC.Controllers.Admin
             return RedirectToAction("Index");
         }
 
-        [HttpGet]
-        [Route("produtos-atualizar-estoque")]
+        [HttpGet("produtos-atualizar-estoque/{id}")]
         public async Task<IActionResult> AtualizarEstoque(Guid id)
         {
             return View("Estoque", await _produtoAppService.ObterPorId(id));
         }
 
-        [HttpPost]
-        [Route("produtos-atualizar-estoque")]
+        [HttpPost("produtos-atualizar-estoque/{id}")]
         public async Task<IActionResult> AtualizarEstoque(Guid id, int quantidade)
         {
             if (quantidade > 0)
@@ -84,10 +78,10 @@ namespace NerdStore.WebApp.MVC.Controllers.Admin
             return View("Index", await _produtoAppService.ObterTodos());
         }
 
-        private async Task<ProdutoViewModel> PopularCategorias(ProdutoViewModel produto)
+        private async Task<ProdutoViewModel> PopularCategorias(ProdutoViewModel produtoViewModel)
         {
-            produto.Categorias = await _produtoAppService.ObterCategorias();
-            return produto;
+            produtoViewModel.Categorias = await _produtoAppService.ObterCategorias();
+            return produtoViewModel;
         }
     }
 }

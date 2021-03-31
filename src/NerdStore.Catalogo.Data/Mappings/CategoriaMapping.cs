@@ -12,7 +12,7 @@ namespace NerdStore.Catalogo.Data.Mappings
 
             builder.Property(c => c.Nome)
                 .IsRequired()
-                .HasColumnType("Varchar(250)");
+                .HasColumnType("varchar(250)");
 
             builder.HasMany(c => c.Produtos)
                 .WithOne(p => p.Categoria)
@@ -21,4 +21,5 @@ namespace NerdStore.Catalogo.Data.Mappings
             builder.ToTable("Categorias");
         }
     }
+
 }

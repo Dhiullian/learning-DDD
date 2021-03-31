@@ -2,16 +2,28 @@
 using NerdStore.Catalogo.Application.ViewModels;
 using NerdStore.Catalogo.Domain;
 
-public class ViewModelToDomainMappingProfile : Profile
+namespace NerdStore.Catalogo.Application.AutoMapper
 {
-    public ViewModelToDomainMappingProfile()
+    public class ViewModelToDomainMappingProfile : Profile
     {
-        CreateMap<ProdutoViewModel, Produto>()
-            .ConvertUsing(prod => new Produto(prod.Nome, prod.Descricao, prod.Ativo,
-                          prod.Valor, prod.CategoriaId, prod.DataCadastro,
-                          prod.Imagem, new Dimensoes(prod.Altura, prod.Largura, prod.Profundidade)));
+        public ViewModelToDomainMappingProfile()
+        {
+            CreateMap<CategoriaViewModel, Categoria>()
+                .ConstructUsing(c => new Categoria(c.Nome, c.Codigo));
 
-        CreateMap<CategoriaViewModel, Categoria>()
-            .ConvertUsing(c => new Categoria(c.Nome, c.Codigo));
+            CreateMap<ProdutoViewModel, Produto>()
+                .ConstructUsing(p => new Produto(
+                    p.Nome,
+                    p.Descricao,
+                    p.Ativo,
+                    p.Valor,
+                    p.CategoriaId,
+                    p.DataCadastro,
+                    p.Imagem,
+                    new Dimensoes(
+                        p.Altura,
+                        p.Largura,
+                        p.Profundidade)));
+        }
     }
 }
