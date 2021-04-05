@@ -45,6 +45,8 @@ namespace NerdStore.Catalogo.Domain
 
             if (produto == null) return false;
 
+            produto.ReporEstoque(quantidade);
+
             _produtoRepository.Atualizar(produto);
             return await _produtoRepository.UnitOfWork.Commit();
         }
