@@ -43,5 +43,10 @@ namespace NerdStore.Vendas.Domain
         {
             Quantidade = unidades;
         }
+
+        public override bool EhValido()
+        {
+            return true;
+        }
     }
 }
