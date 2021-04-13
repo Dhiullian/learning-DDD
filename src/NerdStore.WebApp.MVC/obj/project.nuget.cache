@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c8i+VcD/1+vAAsaj2Aj3grdrrGmCK1EU0yce+D09VkwTOOLS/Wh9qIonqxXPbvWd/YzDCXFn6srM+6r4e1VHPg==",
+  "dgSpecHash": "pDPJspfR/WglvKKMGJmNYHAy1d+4IfGDA8a8DEaGX6O+QywbwSFKkoevucZuI/ngvkNgJoDf5yJOAG0KCEVndQ==",
   "success": true,
   "projectFilePath": "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cliente\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\cliente\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.13\\microsoft.aspnetcore.cryptography.internal.3.1.13.nupkg.sha512",

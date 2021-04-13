@@ -29,6 +29,15 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "FluentValidation/10.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "type": "package",
         "compile": {
@@ -1611,6 +1620,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "FluentValidation": "10.0.2",
           "mediatr": "9.0.0"
         },
         "compile": {
@@ -1618,6 +1628,19 @@
         },
         "runtime": {
           "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
         }
       }
     }
@@ -1650,6 +1673,24 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "FluentValidation/10.0.2": {
+      "sha512": "5jKQ9hhXQRobK8pmADPKEdtbo365q/dWQZtGUZYNZRL2Nd+nm1vMcKxMiFFTtg4fLX1BjkvA6QF0bfZqMKo0Ww==",
+      "type": "package",
+      "path": "fluentvalidation/10.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.0.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "MediatR/9.0.0": {
@@ -5883,6 +5924,11 @@
       "type": "project",
       "path": "../NerdStore.Core/NerdStore.Core.csproj",
       "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
+    },
+    "NerdStore.Vendas.Application/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj",
+      "msbuildProject": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5897,7 +5943,8 @@
       "NerdStore.Catalogo.Application >= 1.0.0",
       "NerdStore.Catalogo.Data >= 1.0.0",
       "NerdStore.Catalogo.Domain >= 1.0.0",
-      "NerdStore.Core >= 1.0.0"
+      "NerdStore.Core >= 1.0.0",
+      "NerdStore.Vendas.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5942,6 +5989,9 @@
             },
             "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
               "projectPath": "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            },
+            "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+              "projectPath": "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
             }
           }
         }

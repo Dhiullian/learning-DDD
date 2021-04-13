@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "w8MxJRQhgrou+E2LZdWAVR83qsZoAKBtv84lnO92UNIUj434KjC0bVlsXPGUVcufQlALg/oh6jYvkm8Kejvu3Q==",
+  "dgSpecHash": "xjNCa+N+dXWVdCHQCsYUEa3S5CagY2cPlTY2IXCB1e3ifegbCgBWF9J/H5PdfCjQOZETNr+pJZA9fwNOHrurmw==",
   "success": true,
   "projectFilePath": "E:\\Desktop\\Programação\\learning-DDD\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cliente\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\cliente\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cliente\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
