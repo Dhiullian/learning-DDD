@@ -296,7 +296,6 @@ E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcore
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.RazorAssemblyInfo.cs
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\staticwebassets\NerdStore.WebApp.MVC.StaticWebAssets.Manifest.cache
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\staticwebassets\NerdStore.WebApp.MVC.StaticWebAssets.xml
-E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\NerdStore.WebApp.MVC.styles.css
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.TagHelpers.input.cache
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.TagHelpers.output.cache
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.RazorCoreGenerate.cache
@@ -325,3 +324,11 @@ E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcore
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.dll
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.pdb
 E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.genruntimeconfig.cache
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.pdb
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+E:\Desktop\Programação\learning-DDD\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
